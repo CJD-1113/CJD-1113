@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CJD-1113
+- 👀 I’m interested in ... Programming, Reading, Movies, and History
+- 🌱 I’m currently learning ... Javascript and Java
+- 📫 How to reach me ... my discord is Dark_Dragon#5637 :)
