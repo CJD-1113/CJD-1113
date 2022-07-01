@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **books and movies**
 
-- 📫 How to reach me **@Dark_Dragon#5637 on discord**
+- 📫 Reach me at **Dark_Dragon#5637 on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
