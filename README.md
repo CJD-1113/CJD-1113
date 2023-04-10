@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm CJD</h1>
 <h3 align="center">A highschool student looking to learn how to program</h3>
 
-- 🔭 I’m currently working on **a meeting scheduler**
+- 🔭 I’m currently working on **an AP GOV study website**
 
-- 🌱 I’m currently learning **Odin Project, Python, JavaScript**
+- 🌱 I’m currently learning **WebDev and Java for FRC**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@CJD-1113](https://replit.com/@CJD-1113)
 
-- 💬 Ask me about **books and movies**
+- 💬 Ask me about **STAR WARS**
 
 - 📫 Reach me at **Dark_Dragon#5637 on discord**
 
