@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm CJD</h1>
 <h3 align="center">A highschool student looking to learn how to program</h3>
 
-- 🔭 I’m currently working on **an AP GOV study website**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **WebDev and Java for FRC**
+- 🌱 I’m currently learning **WebDev and Java**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@CJD-1113](https://replit.com/@CJD-1113)
 
 - 💬 Ask me about **STAR WARS**
 
-- 📫 Reach me at **Dark_Dragon#5637 on discord**
+- 📫 Reach me at **cate.dickstein@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
