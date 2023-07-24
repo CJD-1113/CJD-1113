@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm CJD</h1>
 <h3 align="center">A highschool student looking to learn how to program</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on a **Neutron Imaging Simulation**
 
-- 🌱 I’m currently learning **WebDev and Java**
+- 🌱 I’m currently learning **OPENMC**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@CJD-1113](https://replit.com/@CJD-1113)
 
