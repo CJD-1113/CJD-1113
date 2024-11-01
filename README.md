@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cate</h1>
 <h3 align="center">A highschool student looking to explore programming</h3>
 
-- 🔭 I’m currently working on a [Neutron Imaging Simulation](https://github.com/CJD-1113/Neutron-Imaging-Simulation)
+- 🔭 I’m currently working on **School**
 
-- 🌱 I’m currently learning **OPENMC**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **Python or Website Development**
 
