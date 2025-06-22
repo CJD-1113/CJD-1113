@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cate.dickstein@gmail.com**
 
-- 📄 Read my resume [https://docs.google.com/document/d/1-2c12Zguwfwt65IuPXsneWhcB_G6pxtNu7d4yxrs2Cg/edit](https://docs.google.com/document/d/1-2c12Zguwfwt65IuPXsneWhcB_G6pxtNu7d4yxrs2Cg/edit)
+- 📄 Read my resume [https://docs.google.com/document/d/1eKjcGJ1Q5rMKqZXy-TP4VSq7PUV_tM297HIkD-TMXek/edit?usp=sharing](https://docs.google.com/document/d/1eKjcGJ1Q5rMKqZXy-TP4VSq7PUV_tM297HIkD-TMXek/edit?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
