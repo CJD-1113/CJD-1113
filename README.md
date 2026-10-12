@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cate</h1>
-<h3 align="center">A highschool student looking to explore programming</h3>
+<h3 align="center">A Cornell student looking to explore programming</h3>
 
 - 🔭 I’m currently working on **School**
 
 - 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **Python or Website Development**
-
-- 📫 How to reach me **cate.dickstein@gmail.com**
+- 📫 How to reach me **cjd272@cornell.edu**
 
 - 📄 Read my resume [https://docs.google.com/document/d/1eKjcGJ1Q5rMKqZXy-TP4VSq7PUV_tM297HIkD-TMXek/edit?usp=sharing](https://docs.google.com/document/d/1eKjcGJ1Q5rMKqZXy-TP4VSq7PUV_tM297HIkD-TMXek/edit?usp=sharing)
 
